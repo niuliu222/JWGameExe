@@ -1,5 +1,4 @@
 JWProduction/Binaries/Win64/JWProduction-Win64-Shipping.exe	2019-05-17T02:29:08.200Z
-Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-10-07T06:23:59.840Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-10-07T04:31:11.962Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2018-10-07T04:38:04.947Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2018-10-07T04:38:04.963Z
@@ -16,4 +15,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_11/Win64/openvr_api.dll	2018-10-07T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-10-07T04:31:11.971Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-10-07T04:39:19.389Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-10-07T04:39:19.392Z
-JWProduction.exe	2019-05-17T03:09:58.061Z
+JWProduction.exe	2019-05-18T02:25:42.534Z
